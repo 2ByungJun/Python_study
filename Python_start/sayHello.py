@@ -6,14 +6,12 @@
 def sayHello(name, age):
   if age < 10:
     print("안녕, " + name)
-  elif 10 <= age and age < 20:
+  elif age <= 20 and age >= 10:
     print("안녕하세요, " + name)
   else:
     print("안녕하십니까, " + name)
   
-  sayHello("병준", 9)
-  sayHello("알렉스", 20)
-  sayHello("윤하", 30)
+sayHello("병준", 9)
+sayHello("알렉스", 20)
+sayHello("윤하", 30)
   
-
-  print("Hello")
