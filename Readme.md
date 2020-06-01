@@ -1,6 +1,6 @@
 # Python study
 
-### Update : 2020.03.25
+### Update : 2020.03.26
 ### 개인적으로 독학하는 python공부입니다.
 
 > **Python BAEKJOON**
